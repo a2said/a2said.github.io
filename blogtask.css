@@ -1,0 +1,31 @@
+
+	#one {
+		background:red;
+		color: White;
+	} 
+	#two {
+		background:Violet;
+		color:White;		
+	}
+	#three{
+		background:Black;
+		Color:White;
+	}
+	#four{
+		background:blue;
+		Color:white;
+
+	}
+       #five{
+		background:yellow;
+		Color:white;
+
+	}
+	.special{
+	margin:50px;
+	padding:50px;
+	font-size:30px;
+
+	}
+	
+	
